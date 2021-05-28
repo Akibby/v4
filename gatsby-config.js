@@ -3,7 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Austin Kibler',
-    description: 'Austin Kibler is ',
+    description:
+      'Austin Kibler is a recent graduate looking to start his career in Software Development.',
     siteUrl: 'https://kibler.dev', // No trailing slash allowed!
     image: './src/images/me.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Akibby',
